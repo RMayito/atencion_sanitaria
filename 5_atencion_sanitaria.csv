@@ -1,11 +1,2 @@
 id_paciente,nombre,fecha_nacimiento,direccion
-1,Paciente_1,2006-04-28 14:39:49,DireccionPaciente_1
-2,Paciente_2,2007-10-27 15:44:49,DireccionPaciente_2
-3,Paciente_3,1978-05-21 22:49:38,DireccionPaciente_3
-4,Paciente_4,2011-01-27 23:08:45,DireccionPaciente_4
-5,Paciente_5,1988-12-16 10:06:06,DireccionPaciente_5
-6,Paciente_6,1990-12-23 12:16:26,DireccionPaciente_6
-7,Paciente_7,2009-03-01 12:50:34,DireccionPaciente_7
-8,Paciente_8,2011-05-31 11:57:54,DireccionPaciente_8
-9,Paciente_9,1977-09-02 20:43:06,DireccionPaciente_9
-10,Paciente_10,1993-06-18 10:46:33,DireccionPaciente_10
+1,Paciente_1,2006-04-28,DireccionPaciente_1
